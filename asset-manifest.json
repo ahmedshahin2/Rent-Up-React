@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/css/main.46e67a37.css",
+    "main.js": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/js/main.e1cf4691.js",
+    "static/media/about.jpg": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/about.56e92b20e762df2fa5de.jpg",
+    "static/media/immio.jpg": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/immio.44af39fb330d32b3db39.jpg",
+    "static/media/pricing.jpg": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/pricing.4552ccf3b91e93029513.jpg",
+    "static/media/city-1.png": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/city-1.00ae34661db4c4311114.png",
+    "static/media/services.jpg": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/services.13be7fde05782bd5e2e8.jpg",
+    "static/media/p-1.png": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/p-1.53b793d8b6b646fe9ae0.png",
+    "static/media/banner.png": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/banner.1a3c8a0a448e8e24f6a0.png",
+    "static/media/h1.png": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/h1.39627af04b11bb28d173.png",
+    "static/media/team-1.jpg": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/team-1.6f5246fc683bce47ecac.jpg",
+    "static/media/google.png": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/google.cadee8cdb0c0afb1a713.png",
+    "static/media/apple.png": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/media/apple.1511c3d419cb16aec154.png",
+    "index.html": "/:https://ahmedshahin2.github.io/Rent-Up-React/index.html",
+    "main.46e67a37.css.map": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/css/main.46e67a37.css.map",
+    "main.e1cf4691.js.map": "/:https://ahmedshahin2.github.io/Rent-Up-React/static/js/main.e1cf4691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46e67a37.css",
+    "static/js/main.e1cf4691.js"
+  ]
+}
